@@ -127,7 +127,7 @@ export const managers = [
  },
     {
    "roster": 6,  // ID of the roster that the manager manages
-   "name": "Nic Christian", // (optional) used if a manager took over a team, null or omit otherwise
+   "name": "Brendan Moar", // (optional) used if a manager took over a team, null or omit otherwise
    "location": "US",
    "bio": "Lorem ipsum...",
    "photo": "/managers/name.jpg", // done
@@ -190,8 +190,8 @@ export const managers = [
  },  
     {
    "roster": 9,  // ID of the roster that the manager manages
-   "name": "Austria", // (optional) used if a manager took over a team, null or omit otherwise
-   "location": "Netherlands",
+   "name": "Peter Gordebeke", // (optional) used if a manager took over a team, null or omit otherwise
+   "location": "Austria",
    "bio": "Lorem ipsum...",
    "photo": "/managers/name.jpg", // done
    "fantasyStart": 2014, // when did the manager start playing fantasy football
@@ -229,4 +229,5 @@ export const managers = [
    "philosophy": "Your fantasy team's philosophy",
    "tradingScale": 10, // 1 - 10
    "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
- },   ]
+ },   
+]
